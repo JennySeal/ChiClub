@@ -1,4 +1,4 @@
-let imageArray = ["blackTanLongChi.jpg", "toffyCrouch.jpg", "chihuahuasLying.jpg", "playChi.jpg", "chiChums.jpg"];
+let imageArray = ["blackTanLongChi.jpg", "toffyCrouch.JPG", "chihuahuasLying.jpg", "playChi.JPG", "chiChums.jpg"];
 var index = 0;
 
 const changeBackground = () => {
